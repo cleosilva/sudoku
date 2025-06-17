@@ -59,10 +59,29 @@ sudoku-java/
 ```bash
 javac app/Main.java
 java app.Main
-4. Via IDE
+````
+### 4. Via IDE
 Importe o projeto em sua IDE Java favorita
 
 Rode a classe Main.java
+
+### 5. Como Jogar
+
+1. Clique no botão Inserir Número:
+   * Digite o número da linha e da coluna que deseja inserir o número.
+   * Digite o número que deseja inserir na célula.
+
+2. Remover um número:
+   * Digite o número da linha e da coluna do número que deseja remover.
+
+3. Limpar o tabuleiro:
+   * Clique no botão limpar e todos os número inseridos serão excluídos do tabuleiro.
+
+4. Ver Status:
+   * Mostra o status do Jogo.
+
+5. Finalizar:
+   * Encerra o jogo.
 
 🧠 Conceitos aplicados
 Programação Orientada a Objetos (POO)

@@ -84,22 +84,22 @@ Rode a classe Main.java
    * Encerra o jogo.
 
 🧠 Conceitos aplicados
-Programação Orientada a Objetos (POO)
+* Programação Orientada a Objetos (POO)
 
-Separação de responsabilidades: UI, lógica de jogo, validação
+* Separação de responsabilidades: UI, lógica de jogo, validação
 
-Interface gráfica com Swing
+* Interface gráfica com Swing
 
-Validação de regras do Sudoku (linhas, colunas e subgrids 3x3)
+* Validação de regras do Sudoku (linhas, colunas e subgrids 3x3)
 
 🌱 Melhorias futuras
- Suporte a rascunho nas células
+* Suporte a rascunho nas células
 
- Gerador automático de tabuleiros
+* Gerador automático de tabuleiros
 
- Validação visual (destacar erros no tabuleiro)
+* Validação visual (destacar erros no tabuleiro)
 
- Timer e placar
+* Timer e placar
 
  Modo escuro
 
